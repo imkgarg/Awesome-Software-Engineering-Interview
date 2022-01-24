@@ -34,7 +34,7 @@
 
 ### Questions
 
-**_ Easy _**
+**_Easy_**
 
 - https://leetcode.com/problems/power-of-two/
 - https://leetcode.com/problems/fizz-buzz/
@@ -45,7 +45,7 @@
 - https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/too-much-to-count-fb914aed/
 - https://leetcode.com/problems/maximum-product-of-three-numbers/
 
-**_ Medium _**
+**_Medium_**
 
 - https://leetcode.com/problems/reverse-integer/
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements/

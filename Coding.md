@@ -1,4 +1,7 @@
-# Asymptotic Notations
+
+# DSA/Coding Structured Self-Paced Guide
+
+## Asymptotic Notations
 
 ## Best, Average and Worst Case
 
@@ -26,6 +29,7 @@
 - https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm#factorial
 - https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm#gcd
 - https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm#gcd
+- https://www.hackerearth.com/practice/notes/euclid-algorithm-made-easy-1/
 - https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm#prime
 - https://www.geeksforgeeks.org/mathematical-algorithms/?ref=ghm#factors
 - https://www.geeksforgeeks.org/sieve-of-eratosthenes/
@@ -33,19 +37,22 @@
 
 ### Questions
 
-- https://www.hackerearth.com/practice/notes/euclid-algorithm-made-easy-1/
+**_Easy_**
+
 - https://leetcode.com/problems/power-of-two/
-- https://practice.geeksforgeeks.org/problems/matching-pair5320/1/?page=1&query=page1
 - https://leetcode.com/problems/fizz-buzz/
-- https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/too-much-to-count-fb914aed/
 - https://leetcode.com/problems/excel-sheet-column-number/
-- https://leetcode.com/problems/reverse-integer/
 - https://leetcode.com/problems/add-binary/
-- https://leetcode.com/problems/power-of-two/
-- https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 - https://leetcode.com/problems/happy-number/
-- https://leetcode.com/problems/valid-square/
+- https://practice.geeksforgeeks.org/problems/matching-pair5320/1/?page=1&query=page1
+- https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/too-much-to-count-fb914aed/
 - https://leetcode.com/problems/maximum-product-of-three-numbers/
+
+**_Medium_**
+
+- https://leetcode.com/problems/reverse-integer/
+- https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+- https://leetcode.com/problems/valid-square/
 - https://leetcode.com/problems/encode-and-decode-tinyurl/
 - https://leetcode.com/problems/string-to-integer-atoi/
 - https://leetcode.com/problems/multiply-strings/
@@ -227,7 +234,6 @@
 - https://leetcode.com/problems/maximum-width-of-binary-tree/
 
 ## Binary search tree
-
 ### Theory 
 
 - [Insertion](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
@@ -247,8 +253,7 @@
 - https://leetcode.com/problems/recover-binary-search-tree/
 
 ## Heap
-
-### Theory 
+### Theory
 
 - [Binary heap](https://www.geeksforgeeks.org/binary-heap/)
 - [Time complexity of building a heap](https://www.geeksforgeeks.org/time-complexity-of-building-a-heap/)
@@ -332,13 +337,13 @@
 
 ### Theory
 
-- https://www.geeksforgeeks.org/dynamic-programming/  
+- https://www.geeksforgeeks.org/dynamic-programming/
 - https://youtu.be/PHmgyQVKduc
-- https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/ 
+- https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
 - https://www.youtube.com/watch?v=tyB0ztf0DNY&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=2
-- https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns 
+- https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
-- https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions  
+- https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions
 
 ### Questions
 
@@ -356,7 +361,6 @@
 - [Egg Dropping](https://leetcode.com/problems/super-egg-drop/)
 - [Word Break](https://leetcode.com/problems/word-break/)
 - [Palindrome Partitioning (MCM Variation)](https://leetcode.com/problems/palindrome-partitioning-ii/)
-
 
 ## Graph
 
@@ -410,7 +414,6 @@
 - https://leetcode.com/problems/cut-off-trees-for-golf-event/
 - https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
 - https://leetcode.com/problems/regions-cut-by-slashes/
-
 
 ## Strings
 

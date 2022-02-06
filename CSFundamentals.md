@@ -120,3 +120,135 @@
 ### Miscellaneous
 
 - https://www.interviewbit.com/operating-system-interview-questions/
+
+
+## DBMS
+
+### Intro to DBMS
+
+- https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/
+
+### Architecture of DBMS
+
+- https://www.javatpoint.com/dbms-architecture 
+- https://www.geeksforgeeks.org/introduction-of-3-tier-architecture-in-dbms-set-2/ 
+- https://www.geeksforgeeks.org/dbms-architecture-2-level-3-level/
+
+### Data models
+
+- https://afteracademy.com/blog/what-is-data-model-in-dbms-and-what-are-its-types
+
+### Schema
+
+- https://www.javatpoint.com/database-schema
+
+### Data Independence
+
+- https://www.geeksforgeeks.org/physical-and-logical-data-independence/
+
+### ER diagrams
+
+- https://www.geeksforgeeks.org/introduction-of-er-model/
+
+### Reducing ER diagrams
+
+- https://www.geeksforgeeks.org/minimization-of-er-diagrams/
+
+### Generalization, specialization, Aggregation
+
+- https://www.geeksforgeeks.org/generalization-specialization-and-aggregation-in-er-model/ 
+- https://www.geeksforgeeks.org/difference-between-generalization-and-specialization-in-dbms/
+
+### Keys
+
+- https://www.guru99.com/dbms-keys.html
+
+### Functional dependencies
+
+- https://www.geeksforgeeks.org/types-of-functional-dependencies-in-dbms/ 
+- https://www.guru99.com/dbms-functional-dependency.html
+
+### Cannonical cover
+
+- https://www.geeksforgeeks.org/canonical-cover-of-functional-dependencies-in-dbms/
+
+
+### Normal Forms
+
+- https://www.geeksforgeeks.org/normal-forms-in-dbms/ 
+- https://www.guru99.com/database-normalization.html
+
+### Multivalued Dependencies
+
+- https://www.geeksforgeeks.org/multivalued-dependency-mvd-in-dbms/
+
+### Data Integrity
+
+- https://www.javatpoint.com/dbms-integrity-constraints
+
+### Denormalization
+
+- https://www.geeksforgeeks.org/denormalization-in-databases/
+
+### Transaction
+
+- https://www.geeksforgeeks.org/introduction-to-transaction-processing/
+
+### ACID properties
+
+- https://www.geeksforgeeks.org/acid-properties-in-dbms/
+
+### Conflict Serializibility
+
+- https://www.geeksforgeeks.org/conflict-serializability-in-dbms/
+
+### View Serializibility
+
+- https://www.geeksforgeeks.org/view-serializability-in-dbms/
+
+### Concurrency Control Techniques
+
+- [Lock Based](https://www.geeksforgeeks.org/lock-based-concurrency-control-protocol-in-dbms/)
+- [Graph Based](https://www.geeksforgeeks.org/graph-based-concurrency-control-protocol-in-dbms/)
+- [Two phase locking](https://www.geeksforgeeks.org/two-phase-locking-protocol/)
+
+### Deadlock
+
+- https://www.geeksforgeeks.org/deadlock-in-dbms/
+
+### Management of Deadlock
+
+- https://www.educba.com/deadlock-in-dbms/
+
+### Dirty read
+
+- https://www.geeksforgeeks.org/dbms-dirty-read-in-sql/
+
+### Starvation
+
+- https://www.geeksforgeeks.org/starvation-in-dbms/
+
+### Recovery Techniques
+
+- https://www.geeksforgeeks.org/database-recovery-techniques-in-dbms/
+
+### Distributed Database
+
+- https://phoenixnap.com/kb/distributed-database
+
+### SQL
+
+- https://www.w3schools.com/sql/sql_intro.asp
+
+### selection
+
+- https://www.geeksforgeeks.org/basic-operators-in-relational-algebra-2/
+
+### Relational algebra
+
+- https://www.geeksforgeeks.org/extended-operators-in-relational-algebra/
+
+### Miscellaneous
+
+- https://www.interviewbit.com/dbms-interview-questions/
+- https://artoftesting.com/sql-queries-for-interview

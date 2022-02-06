@@ -252,3 +252,268 @@
 
 - https://www.interviewbit.com/dbms-interview-questions/
 - https://artoftesting.com/sql-queries-for-interview
+
+## Computer Network
+
+### Basis of cn
+
+- https://www.geeksforgeeks.org/basics-computer-networking/
+
+### Goals of Networking
+
+- https://www.geeksforgeeks.org/goals-of-networks/
+
+### Internet and web
+
+- https://www.geeksforgeeks.org/internet-and-web-programming/
+
+### Network topology
+
+- https://www.geeksforgeeks.org/types-of-network-topology/
+
+### Analog and digital transmission
+
+- https://www.carritech.com/news/digital-vs-analogue-transmission/
+
+### OSI Model
+
+- https://www.geeksforgeeks.org/layers-of-osi-model/
+
+### TCP\IP protocol
+
+- https://www.geeksforgeeks.org/tcp-ip-model/
+
+### Framing & synchronization
+
+- https://www.geeksforgeeks.org/framing-in-data-link-layer/
+
+### MAC address
+
+- https://www.geeksforgeeks.org/introduction-of-mac-address-in-computer-network/
+
+### Multiple Access Protocols
+
+- https://www.geeksforgeeks.org/multiple-access-protocols-in-computer-network/
+
+### Circuit switching
+
+- https://www.geeksforgeeks.org/circuit-switching-in-computer-network/
+
+### Packet switching
+
+- https://www.geeksforgeeks.org/packet-switching-and-delays-in-computer-network/
+
+### message switching
+
+- https://www.geeksforgeeks.org/message-switching-techniques/
+
+### Carrier sense multiple access (CSMA)
+
+- https://www.geeksforgeeks.org/carrier-sense-multiple-access-csma/
+
+### Controlled Access Protocols
+
+- https://www.geeksforgeeks.org/controlled-access-protocols-in-computer-network/
+
+### Sliding window Protocol(Go back N)
+
+- https://www.geeksforgeeks.org/sliding-window-protocol-set-1/ 
+- https://www.geeksforgeeks.org/sliding-window-protocol-set-2-receiver-side/
+
+### Sliding window Protocol(selective Repeat)
+
+- https://www.geeksforgeeks.org/sliding-window-protocol-set-3-selective-repeat/
+
+### Stop and wait ARQ
+
+- https://www.geeksforgeeks.org/stop-and-wait-arq/
+
+### Manchester Encoding
+
+- https://www.geeksforgeeks.org/manchester-encoding-in-computer-network/
+
+### Error detection
+
+- https://www.geeksforgeeks.org/error-detection-in-computer-networks/
+
+### Error Correction techniques
+
+- https://www.geeksforgeeks.org/hamming-code-in-computer-network/
+
+### Multipexing
+
+- https://www.geeksforgeeks.org/multiplexing-channel-sharing-in-computer-network/
+
+### Internetworking
+
+- https://www.geeksforgeeks.org/introduction-of-internetworking/
+
+### Network layer Intro
+
+- https://www.geeksforgeeks.org/introduction-and-ipv4-datagram-header/
+
+### Ip addressing
+
+- https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/
+- https://www.geeksforgeeks.org/ip-addressing-classless-addressing/
+
+### IPv4
+
+- https://www.geeksforgeeks.org/ipv4-classless-subnet-equation/
+
+### fragmentation
+
+- https://www.geeksforgeeks.org/fragmentation-network-layer/
+
+### IPv6
+
+- https://www.geeksforgeeks.org/internet-protocol-version-6-ipv6/
+
+### Internet Control Message Protocol(ICMP)
+
+- https://www.geeksforgeeks.org/internet-control-message-protocol-icmp/
+
+### Routing
+
+- https://www.geeksforgeeks.org/routing-v-s-routed-protocols-in-computer-network/
+- https://www.geeksforgeeks.org/types-of-routing/
+
+### Classification of Routing
+
+- https://www.geeksforgeeks.org/classification-of-routing-algorithms/
+
+### Routing protocols
+
+- https://www.geeksforgeeks.org/distance-vector-routing-dvr-protocol/
+
+### Securing Routing protocols
+
+- https://www.geeksforgeeks.org/securing-routing-protocols/
+
+### Routing information protocol
+
+- https://www.geeksforgeeks.org/routing-information-protocol-rip/
+
+### Open shortest path first protocol
+
+- https://www.geeksforgeeks.org/open-shortest-path-first-ospf-protocol-fundamentals/
+- https://www.geeksforgeeks.org/open-shortest-path-first-ospf-router-roles-configuration/
+
+### Network address Translation(NAT)
+
+- https://www.geeksforgeeks.org/network-address-translation-nat/
+
+### Tyoes of NAT
+
+- geeksforgeeks.org/types-of-network-address-translation-nat/
+
+### How ARP works
+
+- https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/
+
+### Packet flow
+
+- https://www.geeksforgeeks.org/packet-flow-in-the-same-network/
+- https://www.geeksforgeeks.org/packet-flow-in-different-network/
+
+### AAA (Authentication, Authorization and Accounting)
+
+- https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/
+
+### TCP 3-way handshake
+
+- https://www.geeksforgeeks.org/tcp-3-way-handshake-process/
+
+### TCP connection
+
+- https://www.geeksforgeeks.org/tcp-connection-establishment/
+- https://www.geeksforgeeks.org/tcp-connection-termination/
+
+### Transport Layer responsibilities
+
+- https://www.geeksforgeeks.org/transport-layer-responsibilities/
+
+### Multiplexing and demultiplexing
+
+- geeksforgeeks.org/multiplexing-and-demultiplexing-in-transport-layer/
+
+### User Datagram Protocol
+
+- https://www.geeksforgeeks.org/user-datagram-protocol-udp/
+
+### P2P file sharing
+
+- https://www.geeksforgeeks.org/p2ppeer-to-peer-file-sharing/
+
+### Congestion control
+
+- https://www.geeksforgeeks.org/congestion-control-in-computer-networks/
+
+### Congestion control techniques
+
+- https://www.geeksforgeeks.org/congestion-control-techniques-in-computer-networks/
+
+### Error control in tcp
+
+- https://www.geeksforgeeks.org/error-control-in-tcp/
+
+### Servers
+
+- https://www.geeksforgeeks.org/servers-in-computer-network/
+
+### Application layer protocols
+
+- https://www.geeksforgeeks.org/protocols-application-layer/
+
+### SMTP
+
+- https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/
+
+### DNS
+
+- https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/
+
+### DNS Spoofing
+
+- https://www.geeksforgeeks.org/dns-spoofing-or-dns-cache-poisoning/
+
+### Diff b/w http and https
+
+- https://www.geeksforgeeks.org/difference-between-http-and-https/
+
+### FTP
+
+- https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/
+
+### Ddifferences b/w protocols
+
+- https://www.geeksforgeeks.org/what-are-the-differences-between-http-ftp-and-smtp/
+
+### What is localohost
+
+- https://www.geeksforgeeks.org/what-is-local-host/
+
+### SNMP
+
+- https://www.geeksforgeeks.org/simple-network-management-protocol-snmp/
+
+### CIA triad
+
+- https://www.geeksforgeeks.org/the-cia-triad-in-cryptography/
+
+### RSA algorithms
+
+- https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
+
+### firewalls
+
+- https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/
+
+### Types of firwalls
+
+- https://www.geeksforgeeks.org/types-of-firewall-and-possible-attacks/ 
+- https://www.geeksforgeeks.org/firewall-methodologies/
+
+### Basic Network Attacks
+
+- https://www.geeksforgeeks.org/basic-network-attacks-in-computer-network/

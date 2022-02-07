@@ -75,4 +75,5 @@
 - [Design Facebook - a social network](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-facebook.md)
 
 ## Miscellaneous
+
 [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)

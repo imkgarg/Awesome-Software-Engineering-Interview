@@ -1,4 +1,4 @@
-# Behavioural Interview Questions
+# Behavioral Interview Questions
 
 ## STAR format
 

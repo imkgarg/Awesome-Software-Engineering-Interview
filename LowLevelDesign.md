@@ -56,7 +56,23 @@
 
 ## Design Questions
 
-- TODO
+- [Parking Lot](https://youtu.be/tVRyb4HaHgw)
+- [Elevator Design](https://youtu.be/siqiJAJWUVg)
+- [Design Library Management System](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-library-management-system.md)
+- [Design Amazon - Online Shopping System](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-amazon-online-shopping-system.md)
+- [Design Stack Overflow](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-stack-overflow.md)
+- [Design a Movie Ticket Booking System](https://github.com/tssovi/grokking-the-object-oriented-design-intervie-w/blob/master/object-oriented-design-case-studies/design-a-movie-ticket-booking-system.md)
+- [Design an ATM](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-an-atm.md)
+- [Design an Airline Management System](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-an-airline-management-system.md)
+- [Design Blackjack and a Deck of Cards](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-blackjack-and-a-deck-of-cards.md)
+- [Design a Hotel Management System](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-hotel-management-system.md)
+- [Design a Restaurant Management System](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-restaurant-management-system.md)
+- [Design Chess](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-chess.md)
+- [Design an Online Stock Brokerage System](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-an-online-stock-brokerage-system.md)
+- [Design a Car Rental System](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-car-rental-system.md)
+- [Design LinkedIn](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-linkedin.md)
+- [Desgin Cricinfo](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-cricinfo.md)
+- [Design Facebook - a social network](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-facebook.md)
 
 ## Miscellaneous
 [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)

@@ -303,10 +303,15 @@
 
 ### Questions
 
+**_Easy_**
+
 - https://leetcode.com/problems/range-sum-of-bst/
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+
+**_Medium_**
+
 - https://leetcode.com/problems/validate-binary-search-tree/
 - https://leetcode.com/problems/unique-binary-search-trees-ii/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/

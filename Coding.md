@@ -1,4 +1,3 @@
-
 # DSA/Coding Structured Self-Paced Guide
 
 ## Asymptotic Notations
@@ -61,11 +60,14 @@
 
 ## Arrays
 
+### Questions
+
+**_Easy_**
+
 - https://leetcode.com/problems/two-sum/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - https://leetcode.com/problems/plus-one/
 - https://leetcode.com/problems/move-zeroes/
-- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 - https://leetcode.com/problems/running-sum-of-1d-array/
 - https://leetcode.com/problems/find-pivot-index/
 - https://leetcode.com/problems/majority-element/
@@ -73,6 +75,9 @@
 - https://leetcode.com/problems/squares-of-a-sorted-array/
 - https://leetcode.com/problems/pascals-triangle/
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- **_Medium_**
+
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 - https://leetcode.com/problems/merge-intervals/
 - https://leetcode.com/problems/3sum/
 - https://leetcode.com/problems/product-of-array-except-self/
@@ -99,6 +104,9 @@
 - https://leetcode.com/problems/invalid-transactions/
 - https://leetcode.com/problems/jump-game/
 - https://leetcode.com/problems/subarray-sums-divisible-by-k/
+
+**_Hard_**
+
 - https://leetcode.com/problems/first-missing-positive/
 - https://leetcode.com/problems/largest-rectangle-in-histogram/
 - https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
@@ -234,7 +242,8 @@
 - https://leetcode.com/problems/maximum-width-of-binary-tree/
 
 ## Binary search tree
-### Theory 
+
+### Theory
 
 - [Insertion](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
 - [Deletion](https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/)
@@ -253,6 +262,7 @@
 - https://leetcode.com/problems/recover-binary-search-tree/
 
 ## Heap
+
 ### Theory
 
 - [Binary heap](https://www.geeksforgeeks.org/binary-heap/)
@@ -297,9 +307,9 @@
 
 ### Theory
 
-- https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/    
+- https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/
 - https://youtu.be/5rtVTYAk9KQ
-- https://www.geeksforgeeks.org/all-about-bit-manipulation/?ref=gcse  
+- https://www.geeksforgeeks.org/all-about-bit-manipulation/?ref=gcse
 - https://youtu.be/Db8OmMfzwl8
 
 ### Questions

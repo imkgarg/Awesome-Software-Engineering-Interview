@@ -254,6 +254,10 @@
 
 ## Tree
 
+### QUestions
+
+**_Easy_**
+
 - https://leetcode.com/problems/diameter-of-binary-tree/
 - https://leetcode.com/problems/invert-binary-tree/
 - https://leetcode.com/problems/subtree-of-another-tree/
@@ -268,12 +272,14 @@
 - https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 - https://leetcode.com/problems/sum-of-left-leaves/
 - https://leetcode.com/problems/balanced-binary-tree/
+
+**_Medium_**
+
 - https://leetcode.com/problems/maximum-width-of-binary-tree/
 - https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 - https://leetcode.com/problems/binary-tree-right-side-view/
 - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
-- https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - https://leetcode.com/problems/binary-search-tree-iterator/
 - https://leetcode.com/problems/binary-tree-level-order-traversal/
@@ -282,6 +288,10 @@
 - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 - https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 - https://leetcode.com/problems/maximum-width-of-binary-tree/
+
+**_Hard_**
+
+- https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
 ## Binary search tree
 

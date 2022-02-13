@@ -474,10 +474,15 @@
 
 ### Questions
 
+**_Easy_**
+
+- https://leetcode.com/problems/find-the-town-judge/
+
+**_Medium_**
+
 - https://leetcode.com/problems/clone-graph/
 - https://leetcode.com/problems/course-schedule/
 - https://leetcode.com/problems/minimum-height-trees/
-- https://leetcode.com/problems/reconstruct-itinerary/
 - https://leetcode.com/problems/evaluate-division/
 - https://leetcode.com/problems/number-of-provinces/
 - https://leetcode.com/problems/redundant-connection/
@@ -486,19 +491,22 @@
 - https://leetcode.com/problems/cheapest-flights-within-k-stops/
 - https://leetcode.com/problems/find-eventual-safe-states/
 - https://leetcode.com/problems/keys-and-rooms/
-- https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
 - https://leetcode.com/problems/possible-bipartition/
 - https://leetcode.com/problems/satisfiability-of-equality-equations/
-- https://leetcode.com/problems/find-the-town-judge/
-- https://leetcode.com/problems/critical-connections-in-a-network/
 - https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+- https://leetcode.com/problems/regions-cut-by-slashes/
+
+**_Hard_**
+
+- https://leetcode.com/problems/reconstruct-itinerary/
+- https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
+- https://leetcode.com/problems/critical-connections-in-a-network/
 - https://leetcode.com/problems/frog-position-after-t-seconds/
 - https://leetcode.com/problems/parallel-courses-ii/
 - https://leetcode.com/problems/word-ladder/
 - https://leetcode.com/problems/word-ladder-ii/
 - https://leetcode.com/problems/cut-off-trees-for-golf-event/
 - https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
-- https://leetcode.com/problems/regions-cut-by-slashes/
 
 ## Strings
 

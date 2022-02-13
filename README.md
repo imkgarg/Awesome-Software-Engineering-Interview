@@ -15,7 +15,7 @@ This repository aims at providing collated content at a single place to prepare 
 
 ## Under development
 
-- Low level design questions
+- Low level design questions - Company Wise
 - Top interview questions - Company Wise
 - How to ace Behavioural interview rounds
 - Mock interview platforms

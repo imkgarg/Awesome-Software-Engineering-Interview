@@ -221,26 +221,34 @@
 
 ## Stack and Queue
 
-### Stacks
+### Stacks Theory
 
 - https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/
 - https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
 
-### Queue
+### Queue Theory
 
 - https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/
 - https://www.geeksforgeeks.org/queue-data-structure/
 
 ### Questions
 
+**_Easy_**
+
 - https://leetcode.com/problems/next-greater-element-i/
-- https://leetcode.com/problems/next-greater-element-ii/
 - https://leetcode.com/problems/implement-stack-using-queues/
 - https://leetcode.com/problems/implement-queue-using-stacks/
 - https://leetcode.com/problems/valid-parentheses/
 - https://leetcode.com/problems/min-stack/
+
+**_Medium_**
+
+- https://leetcode.com/problems/next-greater-element-ii/
 - https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1/
 - https://leetcode.com/problems/lru-cache/
+
+**_Hard_**
+
 - https://leetcode.com/problems/largest-rectangle-in-histogram/
 - https://leetcode.com/problems/sliding-window-maximum/
 

@@ -38,14 +38,14 @@
 
 **_Easy_**
 
-- https://leetcode.com/problems/power-of-two/
-- https://leetcode.com/problems/fizz-buzz/
-- https://leetcode.com/problems/excel-sheet-column-number/
-- https://leetcode.com/problems/add-binary/
-- https://leetcode.com/problems/happy-number/
-- https://practice.geeksforgeeks.org/problems/matching-pair5320/1/?page=1&query=page1
-- https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/too-much-to-count-fb914aed/
-- https://leetcode.com/problems/maximum-product-of-three-numbers/
+- [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [Add Binary](https://leetcode.com/problems/add-binary/)
+- [Happy Number](https://leetcode.com/problems/happy-number/)
+- [Matching Pair](https://practice.geeksforgeeks.org/problems/matching-pair5320/1/?page=1&query=page1)
+- [Count of integers](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/too-much-to-count-fb914aed/)
+- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
 **_Medium_**
 

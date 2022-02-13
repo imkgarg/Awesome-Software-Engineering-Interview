@@ -510,20 +510,30 @@
 
 ## Strings
 
-- https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
-- https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/
-- https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/
+### Questions
+
+**_Easy_**
+
 - https://leetcode.com/problems/add-strings/
 - https://leetcode.com/problems/longest-common-prefix/
 - https://leetcode.com/problems/valid-palindrome-ii/
 - https://leetcode.com/problems/roman-to-integer/
 - https://leetcode.com/problems/implement-strstr/
+
+**_Medium_**
+
+- https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://leetcode.com/problems/group-anagrams/
 - https://leetcode.com/problems/generate-parentheses/
 - https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+
+**_Hard_**
+
+- https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+- https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/
 - https://leetcode.com/problems/sliding-window-median/
 
 ## Trie

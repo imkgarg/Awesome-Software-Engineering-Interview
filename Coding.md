@@ -254,7 +254,7 @@
 
 ## Tree
 
-### QUestions
+### Questions
 
 **_Easy_**
 
@@ -408,15 +408,20 @@
 
 ### Questions
 
+**_Medium_**
+
 - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 - https://leetcode.com/problems/generate-parentheses/
-- https://leetcode.com/problems/sudoku-solver/
-- https://leetcode.com/problems/combination-sum/
 - https://leetcode.com/problems/permutations/
+- https://leetcode.com/problems/combination-sum/
 - https://leetcode.com/problems/combinations/
 - https://leetcode.com/problems/subsets/
 - https://leetcode.com/problems/gray-code/
 - https://leetcode.com/problems/unique-binary-search-trees-ii/
+
+**_Hard_**
+
+- https://leetcode.com/problems/sudoku-solver/
 
 ## Dynamic Programming
 
@@ -432,19 +437,27 @@
 
 ### Questions
 
+**_Easy_**
+
+- [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1)
+
+**_Medium_**
+
 - [Max Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
-- [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
-- [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/)
 - [Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)](https://leetcode.com/problems/minimum-path-sum/)
 - [Coin change](https://leetcode.com/problems/coin-change/)
 - [Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/)
-- [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1)
-- [Egg Dropping](https://leetcode.com/problems/super-egg-drop/)
 - [Word Break](https://leetcode.com/problems/word-break/)
+
+**_Hard_**
+
+- [Edit Distance](https://leetcode.com/problems/edit-distance/)
+- [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/)
+- [Egg Dropping](https://leetcode.com/problems/super-egg-drop/)
 - [Palindrome Partitioning (MCM Variation)](https://leetcode.com/problems/palindrome-partitioning-ii/)
 
 ## Graph
@@ -569,8 +582,13 @@
 
 ### Questions
 
+**_Medium_**
+
 - https://leetcode.com/problems/range-sum-query-mutable/
 - https://leetcode.com/problems/my-calendar-i/
+
+**_Hard_**
+
 - https://leetcode.com/problems/range-module/
 
 ## BIT
@@ -583,6 +601,8 @@
 - [Range Update and Range Queries](https://www.geeksforgeeks.org/binary-indexed-tree-range-update-range-queries/)
 
 ### Questions
+
+**_Medium_**
 
 - https://leetcode.com/problems/count-number-of-teams/
 - https://leetcode.com/problems/queries-on-a-permutation-with-key/

@@ -130,10 +130,17 @@
 
 ## Binary Search
 
+### Questions
+
+**_Easy_**
+
 - https://leetcode.com/problems/sqrtx/
 - https://leetcode.com/problems/binary-search/
 - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 - https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
+**_Medium_**
+
 - https://leetcode.com/problems/time-based-key-value-store/
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - https://leetcode.com/problems/powx-n/
@@ -143,6 +150,9 @@
 - https://leetcode.com/problems/divide-two-integers/
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 - https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
+
+**_Hard_**
+
 - https://leetcode.com/problems/median-of-two-sorted-arrays/
 - https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 - https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/

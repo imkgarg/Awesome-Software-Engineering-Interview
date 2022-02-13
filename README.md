@@ -11,7 +11,7 @@ This repository aims at providing collated content at a single place to prepare 
 - [Object Oriented Design/Low Level Design](https://github.com/imkgarg/Software-Engineering-Interview-Primer/blob/master/LowLevelDesign.md)
 - [System Design/High Level Design](https://github.com/imkgarg/Software-Engineering-Interview-Primer/blob/master/SystemDesign.md)
 - [CS Fundamentals](https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/CSFundamentals.md)
-- [Behavioural](https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/Behavioural.md)
+- [Behavioral](https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/Behavioral.md)
 
 ## Under development
 

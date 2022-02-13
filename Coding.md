@@ -75,7 +75,8 @@
 - https://leetcode.com/problems/squares-of-a-sorted-array/
 - https://leetcode.com/problems/pascals-triangle/
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-- **_Medium_**
+
+**_Medium_**
 
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 - https://leetcode.com/problems/merge-intervals/

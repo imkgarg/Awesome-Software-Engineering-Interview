@@ -161,6 +161,8 @@
 
 ## Sorting
 
+### Theory
+
 - [Arrays.sort() in Java](https://www.geeksforgeeks.org/arrays-sort-in-java-with-examples/)
 - [Collections.sort() in Java](https://www.geeksforgeeks.org/collections-sort-java-examples/)
 - [Implementation of C++ STL sort in Arrays and Vectors](https://www.geeksforgeeks.org/sort-c-stl/)
@@ -179,28 +181,43 @@
 
 ## Hashing
 
+### Theory
+
 - [Introduction](https://www.geeksforgeeks.org/hashing-set-1-introduction/)
 - [Open Addressing](https://www.geeksforgeeks.org/hashing-set-3-open-addressing/)
 - [Collision handling](https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/)
 
 ## LinkedList
 
+### Theory
+
 - [Singly linked list](https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/tutorial/)
 - [Doubly Linked list](https://www.geeksforgeeks.org/data-structures/linked-list/#doublyLinkedList)
 - [Circular Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/#circularLinkedList)
+
+### Questions
+
+**_Easy_**
+
 - [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
 - [Find middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Merge two sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Delete a given Node when a node is given. (0(1) solution)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
-- [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers-ii/)
 - [Find intersection point of Y LinkedList](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [Check if a LinkedList is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/)
-- [Reverse a LinkedList in groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+**_Medium_**
+
+- [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers-ii/)
 - [Detect a cycle and removing loop(two different questions and same concept)](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [Flattening of a LinkedList](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 - [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)
 - [Clone a Linked List with random and next pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
+**_Hard_**
+
+- [Reverse a LinkedList in groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 ## Stack and Queue
 

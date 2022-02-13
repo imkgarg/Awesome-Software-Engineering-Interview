@@ -384,10 +384,15 @@
 
 ### Questions
 
+**_Easy_**
+
 - [Check if a number if a power of 2 or not in O(1)](https://leetcode.com/problems/power-of-two/)
+- [Power Set (this is very important)](https://practice.geeksforgeeks.org/problems/power-set4302/1/)
+
+**_Medium_**
+
 - [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)
 - [Divide Integers without / operator](https://leetcode.com/problems/divide-two-integers/)
-- [Power Set (this is very important)](https://practice.geeksforgeeks.org/problems/power-set4302/1/)
 - [Find MSB in o(1)](https://www.geeksforgeeks.org/find-significant-set-bit-number/)
 
 ## Backtracking

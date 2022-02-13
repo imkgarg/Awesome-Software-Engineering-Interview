@@ -545,13 +545,18 @@
 
 ### Questions
 
+**_Medium_**
+
 - https://leetcode.com/problems/implement-trie-prefix-tree/
-- https://www.geeksforgeeks.org/print-unique-rows/
 - https://www.geeksforgeeks.org/longest-prefix-matching-a-trie-based-solution-in-java/
 - https://www.geeksforgeeks.org/implement-reverse-dns-look-cache/
 - https://www.geeksforgeeks.org/implement-forward-dns-look-cache/
-- https://leetcode.com/problems/stream-of-characters/
 - https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+
+**_Hard_**
+
+- https://www.geeksforgeeks.org/print-unique-rows/
+- https://leetcode.com/problems/stream-of-characters/
 
 ## Segment tree
 

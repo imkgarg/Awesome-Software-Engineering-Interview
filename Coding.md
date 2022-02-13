@@ -330,16 +330,24 @@
 
 ### Questions
 
-- https://www.geeksforgeeks.org/merge-k-sorted-arrays/
+**_Easy_**
+
+- https://leetcode.com/problems/last-stone-weight/
+
+**_Medium_**
+
 - https://www.geeksforgeeks.org/nearly-sorted-algorithm/
-- https://leetcode.com/problems/find-median-from-data-stream/
 - https://leetcode.com/problems/kth-largest-element-in-an-array/
-- https://leetcode.com/problems/merge-k-sorted-lists/
-- https://leetcode.com/problems/the-skyline-problem/
 - https://leetcode.com/problems/top-k-frequent-elements/
 - https://leetcode.com/problems/task-scheduler/
 - https://leetcode.com/problems/network-delay-time/
-- https://leetcode.com/problems/last-stone-weight/
+
+**_Hard_**
+
+- https://www.geeksforgeeks.org/merge-k-sorted-arrays/
+- https://leetcode.com/problems/find-median-from-data-stream/
+- https://leetcode.com/problems/merge-k-sorted-lists/
+- https://leetcode.com/problems/the-skyline-problem/
 
 ## Greedy
 

@@ -115,9 +115,16 @@
 
 ## Two Pointers
 
+### Questions
+
+**_Medium_**
+
 - https://leetcode.com/problems/partition-labels/
 - https://leetcode.com/problems/sort-colors/
 - https://leetcode.com/problems/longest-repeating-character-replacement/
+
+**_Hard_**
+
 - https://leetcode.com/problems/maximum-number-of-visible-points/
 - https://leetcode.com/problems/subarrays-with-k-different-integers/
 

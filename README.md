@@ -19,6 +19,7 @@ This repository aims at providing collated content at a single place to prepare 
 - Top interview questions - Company Wise
 - How to ace Behavioural interview rounds
 - Mock interview platforms
+- Resume building
 
 ## Contributing
 

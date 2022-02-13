@@ -361,9 +361,14 @@
 
 ### Questions
 
+**_Easy_**
+
 - [N meeting in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 - [Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1)
 - [Greedy algorithm to find minimum number of coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)
+
+**_Medium_**
+
 - [Fractional Knapsack Proble](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1/)
 - [Minimum number of platforms required for a railway](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
 - [Job sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)

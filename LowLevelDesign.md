@@ -7,7 +7,7 @@
 
 ## SOLID principal
 
-- https://www.digitalocean.com/community/conceptual_articless-o-l-i-d-the-first-five-principles-of-object-oriented-design
+- https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 - https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
 
 ## Design Patterns
@@ -76,4 +76,5 @@
 
 ## Miscellaneous
 
-[Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
+- [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
+- https://leetcode.com/discuss/study-guide/1852219/object-oriented-programming-made-easy

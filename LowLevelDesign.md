@@ -78,3 +78,19 @@
 
 - [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
 - https://leetcode.com/discuss/study-guide/1852219/object-oriented-programming-made-easy
+
+## Top Questions
+
+### Microsoft
+
+- Design Multiplayer Sudoku Game
+- Design LRU (Static + Dynamic Input Flow)
+- Follow Up : Implement LFU with Least Changes in the previous design (LRU)
+- Design In Memory Cache
+- Design Snake and Ladder Game
+- How would you change the design if wild cards are allowed.
+- Design Exception Class With Test Cases
+- Design Money Splitter
+- Design Notification Service
+- Design Message Queue
+- Design a Terminal/Command Prompt

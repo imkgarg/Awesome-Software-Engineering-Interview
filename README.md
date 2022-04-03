@@ -35,7 +35,9 @@ Feel free to submit pull requests to help with:
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
-My contact info can be found on my [GitHub page](https://github.com/imkgarg).
+- [GitHub](https://github.com/imkgarg).
+- [Youtube](https://www.youtube.com/c/TechMaestroCommunity)
+- [Linkedin](https://www.linkedin.com/in/karan-garg/)
 
 ## License
 

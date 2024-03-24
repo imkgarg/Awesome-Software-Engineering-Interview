@@ -1,5 +1,8 @@
 # Low Level Design
 
+## 55+ LLD Solutions
+[LLDcoding - Machine Coding](https://lldcoding.com)
+
 ## OOPS Concepts
 
 - https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b

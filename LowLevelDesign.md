@@ -1,3 +1,5 @@
+# Low Level Design
+
 ## OOPS Concepts
 
 - https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b
@@ -93,7 +95,6 @@
 - Design Message Queue
 - Design a Terminal/Command Prompt
 
-# Low Level Design
-
 ## 55+ LLD/Machine Coding Solutions
 [LLDcoding - Machine Coding](https://lldcoding.com)
+

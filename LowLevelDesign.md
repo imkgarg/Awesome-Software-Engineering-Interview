@@ -87,10 +87,14 @@
 - Design LRU (Static + Dynamic Input Flow)
 - Follow Up : Implement LFU with Least Changes in the previous design (LRU)
 - Design In Memory Cache
-- Design Snake and Ladder Game
+- [Design Snake and Ladder Game](https://lldcoding.com/design-lld-snake-and-ladder-game-machine-coding-1)
 - How would you change the design if wild cards are allowed.
 - Design Exception Class With Test Cases
 - Design Money Splitter
 - Design Notification Service
 - Design Message Queue
 - Design a Terminal/Command Prompt
+
+## 55+ LLD/Machine Coding Solutions
+[LLDcoding - Machine Coding](https://lldcoding.com)
+

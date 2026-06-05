@@ -87,5 +87,7 @@
 - Tell me about a time when you felt under pressure that you wouldn't be able to get something done or had to take a pivot at the last minute
 
 ## Microsoft 
+Use STAR(R) format to answer. Last R is important, for "Reflection".
 - Tell me architecture of a project you are proud of
 - Tell me about a time when you did not ship a project
+- Official resource: https://www.microsoft.com/en-us/microsoft-365-life-hacks/presentations/behavioral-interview-questions-answers

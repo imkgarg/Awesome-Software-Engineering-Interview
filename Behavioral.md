@@ -85,3 +85,7 @@
 - Tell me about a time when you faced a setback initially but still achieved the goal.
 - Tell me about a a time when you had to cut corners to meet a deadline
 - Tell me about a time when you felt under pressure that you wouldn't be able to get something done or had to take a pivot at the last minute
+
+## Microsoft 
+- Tell me architecture of a project you are proud of
+- Tell me about a time when you did not ship a project

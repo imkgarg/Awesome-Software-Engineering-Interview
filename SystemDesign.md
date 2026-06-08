@@ -68,6 +68,8 @@
 - [Design YouTube / Netflix](https://medium.com/@eileen.code4fun/system-design-interview-mini-youtube-5cae5eedceae)
 - [Design Web Crawler](https://medium.com/@morefree7/design-a-distributed-web-crawler-f67a8ebb8336)
 
+- [PracHub — System Design Interview Questions](https://prachub.com/categories/system-design) - Searchable bank of real system design interview questions with worked solutions and discussion.
+
 ## Database internals
 
 ### Cassandra

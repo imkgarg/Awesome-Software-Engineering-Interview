@@ -8,6 +8,24 @@
 - [How to Answer Behavioral Interview Questions - Video](https://youtu.be/RFqO4cZfp80)
 - https://in.indeed.com/career-advice/interviewing/behavioral-interview-questions
 
+## Practise one real example
+
+Choose one question below and a real, non-confidential experience. Make four short notes before speaking:
+
+| Check | Your note | Said in take 1? | Said in take 2? |
+| --- | --- | --- | --- |
+| Context | The minimum needed to understand the situation | | |
+| Responsibility | What you were responsible for, separate from the team | | |
+| Action | What you personally checked, decided or changed | | |
+| Result and limit | What you observed, and what you cannot verify | | |
+
+1. Answer aloud once. Record the elapsed time and mark the points you actually said; do not score an answer by its duration.
+2. Remove one repeated piece of background, then answer the same question again. Compare which points survived as well as the time.
+3. Restore any detail needed to understand your action, even if the answer becomes longer. Do not invent numbers or turn a team result into a personal claim.
+4. Have a practice partner ask you one follow-up: “What did you do yourself?” or “How do you know that was the result?” Revise any claim you cannot explain.
+
+A stopwatch and paper are sufficient. The optional [Interview Answer Timer](https://makeinterview.com/en/tools/interview-answer-timer) keeps two elapsed times and manual point checks in one tab. It needs no microphone or account, does not record or assess answers, and clears notes on refresh. Copy any notes you want to keep.
+
 ## Questions
 
 ### Facebook/Meta

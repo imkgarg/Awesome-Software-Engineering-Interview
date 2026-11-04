@@ -19,7 +19,10 @@ This repository aims at providing collated content at a single place to prepare 
 - Top interview questions - Company Wise
 - How to ace Behavioural interview rounds
 - Mock interview platforms
-- Resume building
+
+## Resume building
+
+- [JobEmerge](https://www.jobemerge.work) - Freemium AI career copilot with a job-fit test, resume translation, and a Markdown resume editor.
 
 ## Contributing
 

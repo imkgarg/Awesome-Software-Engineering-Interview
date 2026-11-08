@@ -12,13 +12,13 @@ This repository aims at providing collated content at a single place to prepare 
 - [System Design/High Level Design](https://github.com/imkgarg/Software-Engineering-Interview-Primer/blob/master/SystemDesign.md)
 - [CS Fundamentals](https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/CSFundamentals.md)
 - [Behavioral](https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/Behavioral.md)
+- [Mock interview platforms](https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/MockInterviews.md)
 
 ## Under development
 
 - Low level design questions - Company Wise
 - Top interview questions - Company Wise
 - How to ace Behavioural interview rounds
-- Mock interview platforms
 - Resume building
 
 ## Contributing

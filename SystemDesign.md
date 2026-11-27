@@ -30,6 +30,7 @@
 - [Directory based sharding](https://youtu.be/62adurZ_Muw)
 - [Basics of consistent hashing](https://youtu.be/oKAU6LaYFhw)
 - [How to solve capacity estimation problems faster?](https://youtu.be/VBw703pjC3E)
+- [System Design Interview Questions with Answers](https://github.com/mrZedov/mentaro-interview-questions/tree/main/system-design)
 
 ## Advanced Techniques
 
